@@ -17,3 +17,7 @@ https://onlinecourses.nptel.ac.in/noc26_mg59/course
 
 https://onlinecourses.nptel.ac.in/noc26_cs64/preview
 
+
+Statistics Leaflets
+
+https://www.lboro.ac.uk/departments/mlsc/student-resources/statistics-leaflets/
